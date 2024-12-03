@@ -102,7 +102,7 @@ function AllowRunServiceBind.OnInvoke(args)
         Icon = "rbxthumb://type=Asset&id=106451555083719&w=150&h=150",
         Duration = math.huge,
         Callback = AllowRunServiceBind,
-        Button1 = "Bâtk",
+        Button1 = "Bật",
         Button2 = "Tắt",
     })
 end
